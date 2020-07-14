@@ -1,2 +1,1 @@
-# annotated_transformer
-Explorations in how transformers work, per the paper "Attention is all you need" 
+Re-creating the transformer in the paper "Attention is all you need" from scratch 
